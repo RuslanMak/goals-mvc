@@ -1,4 +1,4 @@
-# faq.diplom
+# goals-rus
 
 Сайт используем MVC архитектуру
 
